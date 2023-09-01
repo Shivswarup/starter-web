@@ -7,6 +7,7 @@ This is a simple web project
 ## Deployment
 This line added to deployment.
 ## How To Contribute
-
+ Add some contribute by giving donation
+ 
 2014 git.training
  
